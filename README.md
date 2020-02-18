@@ -387,7 +387,7 @@ doit produire le résultat suivant :
 Dans Kibana, créez un dashboard qui permet de visualiser :
 
 * Le nombre total d'anomalies
-* Un histogramme des anomalies réparties par arrondissement
+* Un histogramme de date des anomalies réparties par arrondissement
 * Un camembert avec le top 5 des types d'anomalies
 * Une carte (de type heatmap) de l'ensemble des anomalies
 
