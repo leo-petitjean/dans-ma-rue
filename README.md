@@ -398,9 +398,3 @@ Faites une capture d'écran du dashboard et ajoutez le au dépôt afin qu'il soi
 ## Pour rendre le travail
 
 Une fois l'ensemble du code complété et le dashboard ajouté, faites une Pull Request !
-
-## Liens utiles
-
-* Documentation officielle Elasticsearch : https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html
-* Client Node.js officiel pour Elasticsearch : https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/index.html
-
